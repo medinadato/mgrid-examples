@@ -1,6 +1,4 @@
-<?php
-
-/*
+/**
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
  * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
@@ -18,18 +16,7 @@
  * <http://mgrid.mdnsolutions.com/license>.
  */
 
-?>
-<html>
-    <head>
-        <title>Mgrid Examples</title>
-    </head>
-    <body>
-        <h3>Mgrid Examples</h3>
-        <ol>
-            <li><a href="examples/ex_get_started.php" target="blank">Get Started grid example.</a></li>
-            <li><a href="examples/ex_simple_01.php" target="blank">Simple grid with no extras.</a></li>
-            <li><a href="examples/ex_simple_02.php" target="blank">Simple grid with basic render and pagination functionalities.</a></li>
-            <li><a href="examples/ex_full_01.php" target="blank">Grid with full use of the functionalities: Render, Filtering, Ordering, Pagination.</a></li>
-        </ol>
-    </body>
-</html>
+table.mgrid-table  {
+    font-family: 'PT Sans', sans-serif, "Trebuchet MS"; 
+    font-size: 12px;
+}

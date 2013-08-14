@@ -21,7 +21,7 @@
 ini_set('display_errors', 1);
 
 // autoloader
-$loader = require __DIR__ . '/vendor/autoload.php';
+$loader = require __DIR__ . '/../vendor/autoload.php';
 
 // also load the demo bundle
 $loader->add('DemoBundle', __DIR__ . '/lib');

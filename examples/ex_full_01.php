@@ -19,7 +19,7 @@
  */
 
 // load bootstrap
-require __DIR__ . '/../bootstrap.php';
+require __DIR__ . '/bootstrap.php';
 
 /*
  * data source for tests
@@ -44,9 +44,7 @@ $grid->setSource(new \Mgrid\Source\ArraySource($mock_data));
     <head>
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <title>Mgrid Example: Full Version</title>
-        <style>
-            body { font-family: 'PT Sans', sans-serif, "Trebuchet MS"; }
-        </style>
+        <link href="examples.css" rel="stylesheet">
     </head>
     
     <body>
