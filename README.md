@@ -14,7 +14,8 @@ For more details go to vendor/mdn/lib/Mgrid/config.ini and change it if needed i
 
     $ git clone git@github.com:medinadato/mgrid-examples.git
 
-2. Run composer (This is just one example. The command syntax might or not vary depending in your configuration:)
+2. Run composer. (This is just one example. The command syntax might or not vary depending in your configuration):
+
     $ php composer.phar install
 
 3. Then type on your browser: 
