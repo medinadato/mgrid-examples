@@ -1,10 +1,9 @@
 #Mgrid Examples
-==============
 
 ## Notes
 Mgrid examples of using the grid, extending the class and adding attributes.
 
-Note: The assets root directory has been changed to work with http://localhost/mgrid-examples/.
+Note: The assets root directory has been changed to work with the location *http://localhost/mgrid-examples/*
 
 For more details go to vendor/mdn/lib/Mgrid/config.ini and change it if needed in your environment.
 
